@@ -1,6 +1,7 @@
 """
 Módulo
 """
+
 import random
 
 def generar_lista(n):
@@ -33,4 +34,3 @@ def obtener_elemento(lista, posicion):
         return lista[posicion]
     except IndexError:
         return f"Error: La posición {posicion} está fuera del rango de la lista."
-

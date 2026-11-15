@@ -1,6 +1,7 @@
 """
 Examen Final - Ejercicio 03: Sistema de registro de pedidos de Rappi
 """
+
 from datetime import datetime
 
 def registrar_pedido(func):
@@ -60,4 +61,3 @@ procesar_pedido(
     ensalada=-15.00,
     jugo=8.50
 )
-

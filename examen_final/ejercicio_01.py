@@ -23,7 +23,6 @@ class Vehiculo:
     def mostrar_datos(self):
         print(f"Vehículo: {self.marca} {self.modelo} | Año: {self.anio}")
 
-
 class VehiculoAlquiler(Vehiculo):
     def __init__(self, marca, modelo, codigo, tarifa_diaria, anio=2020):
         super().__init__(marca, modelo, anio)
