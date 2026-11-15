@@ -2,3 +2,7 @@ Lib/
 __pycache__/
 CACHEDIR.TAG
 *.dist-info/
+.venv/
+*.pyc
+venv/
+practica_01

@@ -1,2 +1,2 @@
-## Practica 01 y 02
+## Practica 01, 02 y examen final
 - **Alumno:** Carlos Bonifacio Flores
