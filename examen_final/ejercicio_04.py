@@ -54,3 +54,4 @@ registrar_compra(inventario, "P004", 10)
 print("----- 3. INVENTARIO ACTUALIZADO Y VALOR TOTAL -----")
 mostrar_inventario(inventario)
 print(f"Valor monetario total actualizado: S/. {valor_total_inventario(inventario):.2f}")
+
