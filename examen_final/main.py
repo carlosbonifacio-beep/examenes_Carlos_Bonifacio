@@ -34,3 +34,4 @@ try:
     generar_lista(-4)
 except ValueError as e:
     print(f"Prueba con n = -4 -> {e}")
+

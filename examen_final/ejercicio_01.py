@@ -95,3 +95,4 @@ print("----- 4. INTENTO DE ASIGNAR TARIFA NEGATIVA -----")
 print(f"Tarifa actual de {v2.codigo} antes del intento: S/. {v2.obtener_tarifa():.2f}")
 v2.actualizar_tarifa(-50.0)
 print(f"Tarifa actual de {v2.codigo} después del intento: S/. {v2.obtener_tarifa():.2f}")
+
